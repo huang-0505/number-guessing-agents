@@ -19,5 +19,9 @@ This project creates two AI agents that play a number guessing game, powered by 
     ├── guesses_agent_ollama.py      # Guesser Agent (Python client)
     ├── requirements.txt             # Python dependencies
     ├── README.md                    # Project instructions (this file)
-    └── .gitignore                   # Git ignored files
 
+
+    
+
+## Reflection
+    I hope I don't fail another AI agent interview lol.
