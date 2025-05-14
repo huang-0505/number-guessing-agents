@@ -1,5 +1,5 @@
 # 🎯 Number Guessing Agents with Ollama 
-# (Doing it because I failed an interview becasue of it lol)
+# (Doing it because this is an interview question I failed miserably lol)
 
 This project creates two AI agents that play a number guessing game, powered by a local LLM (Mistral) through Ollama.
 
