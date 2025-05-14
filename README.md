@@ -13,4 +13,11 @@ This project creates two AI agents that play a number guessing game, powered by 
 - REST APIs (HTTP)
 
 
-## 
+## Project Structure
+number-guessing-agents/
+├── hider_agent_ollama.py        # Hider Agent (FastAPI server)
+├── guesses_agent_ollama.py      # Guesser Agent (Python client)
+├── requirements.txt             # Python dependencies
+├── README.md                    # Project instructions (this file)
+└── .gitignore                   # Git ignored files
+
