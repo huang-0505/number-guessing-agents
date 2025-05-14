@@ -11,3 +11,6 @@ This project creates two AI agents that play a number guessing game, powered by 
 - Python 3
 - Ollama (Mistral model)
 - REST APIs (HTTP)
+
+
+## 
